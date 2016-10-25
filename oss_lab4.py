@@ -6,6 +6,7 @@
 1. Created by : Kim minsang
 2. Date of Preparation : 2016.10.12
 3. Date of Improvement1 : 2016.10.25
+4. Date of Improvement2 : 2016.10.25
 
 ========== ========== =======
  computer     user    outcome
@@ -38,11 +39,11 @@ def main():
 
 		if(com_finger == 1):
 			if(my_finger == 1):
-				print("컴퓨터가 낸 것은 가위입니다. ----> 비김")
+				print("컴퓨터가 낸 것은 가위입니다. ----> 비겼습니다!")
 			elif(my_finger == 2):
-				print("컴퓨터가 낸 것은 가위입니다. ----> 사용자 승!")
+				print("컴퓨터가 낸 것은 가위입니다. ----> 사용자가 승리했습니다!")
 			elif(my_finger == 3):
-				print("컴퓨터가 낸 것은 가위입니다. ----> 컴퓨터 승!")
+				print("컴퓨터가 낸 것은 가위입니다. ----> 컴퓨터가 승리했습니다!")
 
 		elif(com_finger == 2):
 			if(my_finger == 1):
