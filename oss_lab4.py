@@ -5,11 +5,7 @@
 
 1. Created by : Kim minsang
 2. Date of Preparation : 2016.10.12
-3. Date of Improvement1 : 2016.10.25 
-4. Date of Improvement2 : 2016.10.25
-4. Date of Improvement2 : 2016.10.25
-4. Date of Improvement2 : 2016.10.25
-4. Date of Improvement2 : 2016.10.25
+3. Date of Improvement1 : 2016.10.25
 
 ========== ========== =======
  computer     user    outcome
